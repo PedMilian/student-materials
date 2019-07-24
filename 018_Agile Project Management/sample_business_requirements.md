@@ -1,46 +1,82 @@
-# Title
+# CASINO MOVEMENT APP
 
 ## Executive Summary
+ * The intend of this documet is to provide direccion for Management that is flexible enough to deliver timely functioning softwhere at an efficient cost. Under business objectives the importance of the project will be explained and the goals needed to be met before completition and their unit of messurement will be oulined. The scope section will calrify what is included and what is not part of this project.
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+The Delivery schedule section  will breakdown the project in millestones  and assign  the functional requirements required for completion. Other parts of this documents such as Background, functional requirements, Personal requirements, assumptions, risk and limitations, will offer additional details within their category to ensure a lean develpment process*  *
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+* Casino Movement of Miami is a Dance studio and a cultural hub of the community, due to rising cost of real states and other business expenses in order to survive the organisation has desided to move the majority of their operation to the web. This is how this app will acomplish such transition: 
+Objective 1 Student Portal 
+objective 2 virtual class room 
+Objective 3 Store front *
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+*This project is ment to offer an alternative to the brick and mortar dance studio and/or as complement to up and personal classes*
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+*This project is meant to integrate  with the existing costumer website. Home page, about us, contact us and others usal characters of any company online presence or ecosystem are already in existance and not part of this project, our work is strictly  limit to the objectives outlined on the previous section.*
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
+*##Objective 1 Student Portal: 
+Students shuld be able to login  track their progress in dashboard, log in into the correct class according to their level (begginners, intermedia, advance) upload videos for the instuctor to grade. See their account info, pay for classes, and update their payment information. 
+
+##objective 2 virtual class room 
+Video database grouped by Levels extudents may only acceses the ones correspondent to their level in the spesfic order pre ordained by the instructor 
+
+##Objective 3 Store front
+straight foward online store where the students can buy promotional merchandise and other products .*
 
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+* Front end: 
+1 Grapphic designer to trickle down the existing look and feel of the costumer website in to our project
+2 CSS developers to worck in conjunction with grphic designer
+1 content creator.
+Back-end:
+1 JS specialist to overlook the back-end*
+2 express JS developers to work in conjunction with JS specialist
+and A project Manager to overlook the whole operation 
 
 ## Delivery schedule
 
-*It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
+* The porject will be borcken down in to 3 phases 
+Phase 1.Objective1 (1.1): 
+Student should be able to login and see class schedule.
+Phase 1.2:
+Video data base up videos should be organize within 3 levels: biginers, intermedia and advance
+Phase 1.3: 
+Products online store up 
+Phase 2.1:
+Student should be able to login see the dashborad and logon to the correspondent videos according to their progress
+phase 2.2:
+Virtual class room will allow students to upload videos for the instructor to grade
+phase 2.3: N/A
+phase 3.1
+Student accounts, student should be able to make payments online for one time workshop classes (in location with instructor), and enter/update their payment information for their membership base subscription to the online curses
+phase 3.2
+it will be visible to other students who else is watching the same video at the same time as them and they will have the avility to text messages that will also be visible to the group, (no private messeging) 
+Phase 3.3 N/A
+*
 
 ## Other requirements
 
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+*The existing instructor portal should integrate with the new students account in order for the instructor to be able to revised and grade the videos the students upload*
 
 ## Assumptions
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+*Virtual Classroom vill depend on youtube and other google tools.*
 
 ## Limitations
 
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+* Time is of the essance we have a limit of 3 months per Pahase.*
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+* Risk: Client does not produce instructional videos soon enough
+Mitigation: Client authorize the use of outside material as longs as all the required licenses are obtained and the material is clear by the client .*
